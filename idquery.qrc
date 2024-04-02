@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>idquery.ico</file>
+        <file>idquery_16.png</file>
+    </qresource>
+</RCC>
